@@ -1,2 +1,2 @@
 # Custom Password Generator
- You Can get randomly custom generated passwords..
+This python project can help in making uncrackable passwords of any length and of any forms.
